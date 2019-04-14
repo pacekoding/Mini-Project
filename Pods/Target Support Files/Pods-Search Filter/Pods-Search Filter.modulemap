@@ -1,0 +1,6 @@
+framework module Pods_Search_Filter {
+  umbrella header "Pods-Search Filter-umbrella.h"
+
+  export *
+  module * { export * }
+}
